@@ -16,3 +16,9 @@ testWebP(function (support) {
     document.querySelector("body").classList.add("no-webp");
   }
 });
+
+// NavLink AddClassActive   ===================================================
+
+// $(sadsa).filter(function() {
+//   this.href === location.href
+// }).addClass("active")
